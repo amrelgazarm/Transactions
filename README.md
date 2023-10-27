@@ -1,3 +1,4 @@
+![Transactian Logo](logo.png)
 # Transactian App
 
 Transactian App is a mobile application designed to provide users with a platform to manage their transactions efficiently. This README provides an overview of the app's features, installation instructions, and usage guidelines.
